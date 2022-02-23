@@ -1,3 +1,5 @@
+# Copyright (c) 20222-2023 Joohee Lee All Rights Reserved
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
